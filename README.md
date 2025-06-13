@@ -38,10 +38,16 @@
 ## 📂 Featured Projects
 
 Here are a few things I've worked on:
-- 🧠 
-- 📊 
-- 🎮 
-- 🔍
+- 🎮 [Aggressive Slimes (Unity Game)](https://github.com/joebker1/aggressive-slimes-demo)  
+      Side-scrolling game inspired by Angry Birds. Built in Unity with physics-based interactions and original sprite design.
+- 📊 [ASA DataFest 2024 – CourseKata Analysis](https://github.com/joebker1/coursekata-datafest-2024)
+      Award-winning analysis of online textbook interactions. Won "Best Overall" at ASU during the national 48-hour DataFest competition.
+- 🎮 [Video Game Sales Predictor](https://github.com/joebker1/videogame-sales-predictor)
+      A regression-based machine learning project predicting game sales from genre, platform, and user scores.
+- ⚾ [MLB Performance Dashboard (Alteryx + Tableau)](https://github.com/joebker1/mlb-alteryx-tableau-project)  
+      Data cleaning in Alteryx and visualizations in Tableau focused on the LA Dodgers and MLB team comparisons.
+- 🧪 [Pokémon Classifier](https://github.com/joebker1/pokemon-classifier-project)  
+      Binary and multi-label classification of Pokémon sprites vs real animals using PyTorch and ResNet.
 
 ---
 
