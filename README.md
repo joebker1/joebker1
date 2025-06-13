@@ -39,15 +39,15 @@
 
 Here are a few things I've worked on:
 - 🎮 [Aggressive Slimes (Unity Game)](https://github.com/joebker1/aggressive-slimes-demo)  
-      Side-scrolling game inspired by Angry Birds. Built in Unity with physics-based interactions and original sprite design.
-- 📊 [ASA DataFest 2024 – CourseKata Analysis](https://github.com/joebker1/coursekata-datafest-2024)
-      Award-winning analysis of online textbook interactions. Won "Best Overall" at ASU during the national 48-hour DataFest competition.
-- 🎮 [Video Game Sales Predictor](https://github.com/joebker1/videogame-sales-predictor)
-      A regression-based machine learning project predicting game sales from genre, platform, and user scores.
+            Side-scrolling game inspired by Angry Birds. Built in Unity with physics-based interactions and original sprite design.
+- 📊 [ASA DataFest 2024 – CourseKata Analysis](https://github.com/joebker1/coursekata-datafest-2024)  
+            Award-winning analysis of online textbook interactions. Won "Best Overall" at ASU during the national 48-hour DataFest competition.
+- 🎮 [Video Game Sales Predictor](https://github.com/joebker1/videogame-sales-predictor)  
+            A regression-based machine learning project predicting game sales from genre, platform, and user scores.
 - ⚾ [MLB Performance Dashboard (Alteryx + Tableau)](https://github.com/joebker1/mlb-alteryx-tableau-project)  
-      Data cleaning in Alteryx and visualizations in Tableau focused on the LA Dodgers and MLB team comparisons.
+            Data cleaning in Alteryx and visualizations in Tableau focused on the LA Dodgers and MLB team comparisons.
 - 🧪 [Pokémon Classifier](https://github.com/joebker1/pokemon-classifier-project)  
-      Binary and multi-label classification of Pokémon sprites vs real animals using PyTorch and ResNet.
+            Binary and multi-label classification of Pokémon sprites vs real animals using PyTorch and ResNet.
 
 ---
 
@@ -74,22 +74,3 @@ Here are a few things I've worked on:
 - 📧 Email: jack.oebker@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jackoebker/)
 - 🌐 [Indeed](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)
-
-
-
-
-
-<!--
-**joebker1/joebker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
